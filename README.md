@@ -1,5 +1,5 @@
 # Hi, I'm Dhruv 👋
-Final year student at BITS Pilani, Pilani Campus (B.E. EEE + M.Sc. Economics)
+4th year student at BITS Pilani, Pilani Campus (B.E. EEE + M.Sc. Economics 5 year Dual Degree)
 Building backends and exploring systems engineering.
 
 🔧 Stack: Python, FastAPI, PostgreSQL, Redis
