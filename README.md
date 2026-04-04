@@ -4,8 +4,12 @@
 
 Building backends and exploring systems engineering.
 
-🔧 Stack: Python, FastAPI, PostgreSQL, Redis
+🔧 Stack: Python, FastAPI, PostgreSQL, Redis, Docker
 
-🚀 Currently building: StockPulse — a financial news sentiment API
+🚀 Currently building:
+- fin-data-normalizer — an RL environment for financial data normalization (Meta PyTorch OpenEnv Hackathon)
+- StockPulse — a financial news sentiment API
+
+🏆 Meta PyTorch OpenEnv Hackathon participant — built a real-world RL environment deployed on HuggingFace Spaces
 
 📫 Reach me: www.linkedin.com/in/dhruv-bhatt-6620b21b7
